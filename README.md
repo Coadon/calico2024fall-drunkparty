@@ -1,7 +1,24 @@
-# Put Contest.zip in here.
+# CALICO DUNRK PARTY
+
+## Aftermath
+
+Solutions (Not Editorial)
+https://github.com/calico-team/calico-fa24
+
+We were s
+
+| Rank | Team | Score (Penalty) |
+|------|------|---------------|
+| 260  | Get Real | 25 (299)  |
+
+| problem | 1 | 2 | 3 | 4 | 5 | 5^ | 6 | 6^ | 6^^ | 7 | 7^ | 8 | 8^ | 9 | 9^ | 10 | 11 |
+|---------|---|---|---|---|---|----|---|----|-----|---|----|---|----|---|----|----|----|
+| Penalty |35 |25 |31 |113|X  | .  |75 |X |||||||||
+| Tries   |1  |1  |2  |2  |6  |.   |1  |3 |||||||||
+
+## Put Contest.zip in here.
 
 https://calicojudge.com/team
-
 
 7:50 AM
 Hello Lucas
